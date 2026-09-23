@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Data and model artifacts
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+
+# Local datasets
+/data/*
+!/data/README.md
+
+# Results generated locally
+/results/*
+!/results/README.md
+
+# Secrets and credentials
+.env
+*.env
+kaggle.json
+*.key
+*.pem
