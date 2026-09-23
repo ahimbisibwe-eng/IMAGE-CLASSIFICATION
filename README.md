@@ -1,5 +1,7 @@
 # TEAM HEALTH — MedSigLIP Foundation Model for Chest X-Ray Classification
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahimbisibwe-eng/IMAGE-CLASSIFICATION/blob/main/C_of_ACT_2026_Foundation_MedSigLIP_Workshop_.ipynb)
+
 A research and experimental project developed by **TEAM HEALTH** during the **ACT Africa 2026 Foundation Models Workshop**, exploring the use of Google's **MedSigLIP** foundation model for chest X-ray classification using an African dataset.
 
 > **Important:** The original working Colab notebook is preserved unchanged. This repository adds documentation and reproducibility files around the notebook; the model code itself has not been modified.
@@ -94,7 +96,7 @@ See [`requirements.txt`](./requirements.txt) for the main package versions recor
 
 ## Reproducing the experiment
 
-1. Open the main `.ipynb` file in Google Colab.
+1. Click the **Open in Colab** badge at the top of this README.
 2. Enable a GPU runtime if available. The original experiment was run using an NVIDIA T4.
 3. Use the notebook's setup cells to install dependencies.
 4. Obtain the authorised Nigeria chest X-ray dataset referenced by the notebook.
