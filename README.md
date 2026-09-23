@@ -1,8 +1,25 @@
-# MedSigLIP Foundation Model for Chest X-Ray Classification
+# TEAM HEALTH — MedSigLIP Foundation Model for Chest X-Ray Classification
 
-A Google Colab research notebook developed during the **ACT Africa 2026 Foundation Models Workshop** for exploring medical image classification with Google's **MedSigLIP** model and an African chest X-ray dataset.
+A research and experimental project developed by **TEAM HEALTH** during the **ACT Africa 2026 Foundation Models Workshop**, exploring the use of Google's **MedSigLIP** foundation model for chest X-ray classification using an African dataset.
 
 > **Important:** The original working Colab notebook is preserved unchanged. This repository adds documentation and reproducibility files around the notebook; the model code itself has not been modified.
+
+## Team
+
+### TEAM HEALTH
+
+**Team Leader:** **Bernard Ahimbisibwe**
+
+TEAM HEALTH developed this project as part of the practical foundation-model activities during the **ACT Africa 2026 Foundation Models Workshop**. The team explored how foundation models and African datasets can be applied to health-related challenges, with a focus on medical image classification.
+
+The project brings together interests in:
+
+- Medical image classification
+- Foundation models for healthcare
+- African health datasets
+- Zero-shot image classification
+- Model evaluation and interpretability
+- Responsible AI applications for health
 
 ## Project overview
 
@@ -123,18 +140,17 @@ The reported results are research results, **not a clinical diagnostic system**.
 
 ## Workshop context
 
-This work was developed in the context of the **ACT Africa 2026 Foundation Models Workshop**, with an interest in building practical AI capabilities around African data and community challenges.
+This project was developed by **TEAM HEALTH during the ACT Africa 2026 Foundation Models Workshop**. The workshop provided the collaborative context for exploring foundation models, African datasets and practical AI applications to community challenges.
 
-## Author
+## Project leadership
 
-**Bernard Ahimbisibwe**  
+**TEAM HEALTH**  
+**Team Leader: Bernard Ahimbisibwe**  
 Uganda
-
-Research interests include artificial intelligence, foundation models, medical AI, African datasets, digital learning and responsible AI for development.
 
 ## Citation
 
-If you use this repository or build on the notebook, please acknowledge the repository and the underlying dataset/model sources.
+If you use this repository or build on the notebook, please acknowledge **TEAM HEALTH**, the project team leader **Bernard Ahimbisibwe**, and the underlying dataset and model sources.
 
 ## Disclaimer
 
